@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    padding: 0px;
+}
+
+p {
+    color: white;
+    font-family: monospace;
+    font-size: 14px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#div_output {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    margin: 0px;
+    width: 100vw;
+    overflow-y: auto;
+    padding-left: 2px;
+    padding-right: 0px;
+    padding-top: 2px;
+    padding-bottom: 24px;
+}

@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+}
+
+#div_visualship {
+    background-color: #aa0000;
+    display: block;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 400px;
+    height: 400px;
+}
+
+#div_location {
+    background-color: #00aa00;
+    display: none;
+    width: 400px;
+    height: 400px;
+}
+
+#div_speed {
+    background-color: #0000aa;
+    display: none;
+    width: 400px;
+    height: 400px;
+}
+
+#btn_visualship {
+    position: absolute;
+    left: 20px;
+    top: 420px;
+    width: 100px;
+    height: 24px;
+}
+
+#btn_location {
+    position: absolute;
+    left: 120px;
+    top: 420px;
+    width: 100px;
+    height: 24px;
+}
+
+#btn_speed {
+    position: absolute;
+    left: 220px;
+    top: 420px;
+    width: 100px;
+    height: 24px;
+}
